@@ -1,6 +1,6 @@
 {
-  "name": "team-reflex/discord-php",
-  "description": "An unofficial API to interact with the voice and text service Discord.",
+  "name": "asniper/discord-php",
+  "description": "An unofficial API to interact with the voice and text service Discord. Modified by Casey 'A Sniper' Shea",
   "license": "MIT",
   "authors": [
     {
@@ -10,6 +10,10 @@
     {
       "name": "Aaron Scherer",
       "email": "aequasi@gmail.com"
+    },
+    {
+      "name": "Casey Shea",
+      "email": "asniper@asniper.net"
     }
   ],
   "require": {
